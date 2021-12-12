@@ -1,0 +1,12 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "empConnection": "Server=localhost;Initial Catalog=EmpInfo; Trusted_Connection=true;MultipleActiveResultSets=true"
+  }
+}
+
